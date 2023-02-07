@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "735829500411",
+    "project_id": "crypto-wallet-users",
+    "storage_bucket": "crypto-wallet-users.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735829500411:android:6176daddbe540b3f9eab5e",
+        "android_client_info": {
+          "package_name": "com.mahesh.cryptowallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735829500411-e2vlri7oc71gjkdulg8apqp88pc3u38g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mahesh.cryptowallet",
+            "certificate_hash": "cabaf244353352f0444c67e13c4728e98527ba84"
+          }
+        },
+        {
+          "client_id": "735829500411-1d9371upf83n17mh1i36a19jfdmt44fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa8953EWt9y87kt6oJfwGJhvTk2sVy9Wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735829500411-1d9371upf83n17mh1i36a19jfdmt44fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
